@@ -38,24 +38,33 @@ This dataset required no cleaning.
 
 ![image_one](./Images/img-1.png)
 
+The bar graph shows the ranks of different genres in the film industry with Animation and Adventure topping the chart.
+
 
 #### **Production Budget and Gross Trends over Time**
 
 ![image_three](./Images/img-3.png)
 
+The graph shows the  average amount of production budget and worldwide gross spread throughout different years.
 
-#### **Average Profit Across Differentv Months**
+
+#### **Average Profit Across Different Months**
 
 ![image_five](./Images/img-5.png)
+
+The bar graph shows the average profit across different months.
 
 
 
 ## **Conclusion**
-1. According to our rank, the best performing genre in the film industry is Animation, followed by Adventure and Sport. Thriller, Horror and Romance are the least rewarding genres to invest in. Therefore, we recommend that Urban Productions invests more in Animation, Adventure and Sport genres.
+
+Conclusively, the project provided valuable insights into the factors influencing movie success in the film industry. By analyzing genres, production budgets, and release periods, we identified trends that affect a film’s performance. The findings show that a movie's success is determined by genre selection, sufficient budgeting and strategic release timing. The main findings of this project are:
+
+1. The best performing genre in the film industry is Animation, followed by Adventure and Sport. Thriller, Horror and Romance are the least rewarding genres to invest in. Therefore, we recommend that the head of the company's movie studio invests more in Animation, Adventure and Sport genres.
 
 2. As studios spend more on movies' production budget, the gross earned increases too. It is recommendable to allocate high budgets for films since viewers reward the spending, which ensures return of profits.
 
-3. Movies do best within the May to July period. On the other hand, January, September and October are the least performing months in the film industry. It is hence ideal to have movie releases during the May to July period.
+3. Movies do best within the months of May, June and July. On the other hand, January, September and October are the least performing months in the film industry. It is hence ideal to have movie released during the May to July period.
 
 
-Overall, the project provided valuable insights into the factors influencing movie success in the film industry. By analyzing genres, production budgets, and release periods, we identified trends that affect a film’s performance. The findings show that a movie's success is determined by genre selection, sufficient budgeting and strategic release timing. Therefore, this analysis guides Urban Productions in making informed decisions in venturing into the film industry.
+
