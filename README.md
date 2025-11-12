@@ -1,10 +1,10 @@
-# ** Urban Movie Production Analysis**
+# ** Urban Productions Movie Analysis**
 
 ## **Overview**
 This project analyzes trends in various movie datasets to form meaningful insights that shed light on a film's success in the film industry and thus inform the company on the most influential factors in the film-making industry.
 
 ## **Business Understanding**
-The company's head of the movie studio requires meaningful insights from the data analysis in order to take important factors into consideration to ensure a sustainable profit in the newly dived in film-making business.The core questions to be answered are:
+Urban Productions' head requires meaningful insights from the data analysis in order to take important factors into consideration to ensure a sustainable profit in the newly dived in film-making business.The core questions to be answered are:
 
 1. The genres which have the best returns from investments.
 
@@ -19,7 +19,7 @@ These questions form the base on how the project objectives are tackled.
 ## **Data Understanding and Analysis**
 
 ### **Source of data**
-The datasets utilized in this project are *Box Office Mojo*, *IMDB* and *The Numbers* with information from the 19th century to the current date.
+The datasets utilized in this project are *Box Office Mojo*, *IMDB* and *The Numbers* with information from the late 19th century to the current date.
 
 ### **Data Description**
 The utilized columns in the *Box Office Mojo* dataset are title, studio, domestic_gross, foreign_gross and year.
