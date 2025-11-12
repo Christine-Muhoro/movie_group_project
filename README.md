@@ -1,4 +1,4 @@
-# ** Urban Productions Movie Analysis**
+# **Urban Productions Movie Analysis**
 
 ## **Overview**
 This project analyzes trends in various movie datasets to form meaningful insights that shed light on a film's success in the film industry and thus inform the company on the most influential factors in the film-making industry.
