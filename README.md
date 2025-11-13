@@ -19,13 +19,13 @@ These questions form the base on how the project objectives are tackled.
 ## **Data Understanding and Analysis**
 
 ### **Source of data**
-The datasets utilized in this project are *Box Office Mojo*, *IMDB* and *The Numbers* with information from the late 19th century to the current date.
+The datasets utilized in this project are *Box Office Mojo*, *IMDb* and *The Numbers* with information from the late 19th century to the current date.
 
 ### **Data Description**
 The utilized columns in the *Box Office Mojo* dataset are title, studio, domestic_gross, foreign_gross and year.
 The data cleaning process included dropping null values from the Studio and Domestic_gross columns and filling of the missing values in the Foreign_gross column in relation to the median.
 
-The utilized columns in the *IMDB* dataset are movie_id,   primary_title, original_title, start_year, runtime_minutes, genres, averagerating and numvotes which are a result of combining the movie_basics and movie_ratings tables.
+The utilized columns in the *IMDb* dataset are movie_id,   primary_title, original_title, start_year, runtime_minutes, genres, averagerating and numvotes which are a result of combining the movie_basics and movie_ratings tables.
 The data cleaning process resulted in the dropping of null values in the genres column and the null values in the runtime_minutes were filled in relation to the median.
 
 The utilized columns in the *The Numbers* dataset are release_date, movie, production_budget, domestic_gross and worldwide_gross.
