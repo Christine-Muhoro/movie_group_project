@@ -6,13 +6,11 @@ This project analyzes trends in various movie datasets to form meaningful insigh
 ## **Business Understanding**
 Urban Productions' head requires meaningful insights from the data analysis in order to take important factors into consideration to ensure a sustainable profit in the newly dived in film-making business.The core questions to be answered are:
 
-1. The genres which have the best returns from investments.
+1. The genres which have the best returns from investments and the effect of movie ratings on the gross of a film.
 
-2. The effect of movie ratings and how they affect the gross from a film.
+2. The range of the production budgets used in film-making and the expected returns scaled across a certain time frame.
 
-3. The range of the production budgets used in film-making and the expected returns scaled across a certain time frame.
-
-4. The variations of film response from audiences in relation to release dates and months.
+3. The variations of film response from audiences in relation to release dates and months.
 
 These questions form the base on how the project objectives are tackled.
 
